@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Chat-WebSockets</string>
+    <string name="server_uri">Adreça del servidor WebSocket</string>
+    <string name="default_server_uri">ws://10.0.2.2:8888</string>
+    <string name="status_disconnected">Desconnectat</string>
+    <string name="status_connected">Connectat</string>
+    <string name="connect">Connectar</string>
+    <string name="disconnect">Desconnectar</string>
+    <string name="send">Enviar</string>
+    <string name="type_message">Escriviu un missatge...</string>
 </resources>

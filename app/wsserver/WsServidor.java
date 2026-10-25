@@ -17,8 +17,8 @@ import org.java_websocket.server.WebSocketServer;
 // Afegiu-les a les dependències del projecte o poseu els JAR a la carpeta lib/.
 //
 // Compilar amb:
-// javac -cp "lib/*:." WsServidor.java
-// java -cp "lib/*:." WsServidor
+// javac -cp "lib/Java-WebSocket-1.5.5.jar;lib/slf4j-api-2.0.16.jar;." WsServidor.java
+// java -cp "lib/Java-WebSocket-1.5.5.jar;lib/slf4j-api-2.0.16.jar;." WsServidor
 
 // Tutorials: http://tootallnate.github.io/Java-WebSocket/
 
